@@ -3,3 +3,4 @@ bge m3 embedding model -  한국어 처리를 잘함
 과거: ko-sbert-multitask
 
 코딩을 잘하는 LLM: granite-code model, code 라마 
+https://github.com/HeegyuKim/open-korean-instructions?tab=readme-ov-file
